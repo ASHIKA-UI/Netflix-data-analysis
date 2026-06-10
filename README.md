@@ -34,7 +34,6 @@ Dataset size: **8800+ records**
 
 * Python
 * Pandas
-* NumPy
 * Matplotlib
 * Seaborn
 * Jupyter Notebook / VS Code
@@ -59,13 +58,6 @@ Identified which countries produce the most Netflix content.
 
 Analyzed the most common genres available on Netflix.
 
-### 5️⃣ Top Directors
-
-Identified directors with the highest number of titles on Netflix.
-
-### 6️⃣ Movie Duration Analysis
-
-Studied the distribution and average duration of Netflix movies.
 
 ---
 
